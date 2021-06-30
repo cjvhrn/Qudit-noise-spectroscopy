@@ -1,2 +1,2 @@
-# Qudit-noise-spectroscopy
+# Quantum noise spectroscopy of a qutrit in dephasing environments
 
